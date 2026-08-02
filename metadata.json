@@ -1,0 +1,6 @@
+{
+  "name": "TrendLens",
+  "description": "Multimodal Visual Trend Analysis on Social Media Using CLIP, LLMs, and Retrieval-Augmented Generation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
